@@ -6,4 +6,4 @@ Lista de Tarefas
 * Marque como concluído
 * Excluir itens
 
-![tare](/home/Renan/Imagens/tare.png)
+![agorava](https://user-images.githubusercontent.com/85629957/136513622-28c733f3-87fe-432e-906d-f50842eca5fa.png)
